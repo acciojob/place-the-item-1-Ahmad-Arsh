@@ -2,17 +2,35 @@
 /* Your CSS Code here. */
 .holder {
   display: flex;
-	
+
   flex-wrap: wrap;
 justify-content: space-around;
-	height: 100px;
+	height: 130px;
   j
 	text-align: left;
 }
 
-.item {
+.item1 {
   
-  background-color: DodgerBlue;
+  background-color: green;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: left;
+	font-size: 30px;
+}
+.item2 {
+  
+  background-color: red;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: left;
+	font-size: 30px;
+}
+.item3 {
+  
+  background-color: blue;
   color: white;
   width: 100px;
   margin: 10px;
