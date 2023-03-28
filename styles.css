@@ -2,11 +2,9 @@
 /* Your CSS Code here. */
 .holder {
   display: flex;
-
-  flex-wrap: wrap;
+ flex-wrap: wrap;
 justify-content: space-around;
 	height: 130px;
-  j
 	text-align: left;
 }
 
